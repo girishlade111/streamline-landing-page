@@ -331,3 +331,10 @@ If you encounter any issues or have questions:
 <p align="center">
   <strong>Built with ❤️ using <a href="https://v0.app">v0.app</a></strong>
 </p>
+
+---
+
+<p align="center">
+  <strong>Built by <a href="https://github.com/girishlade111">Girish Lade</a></strong><br>
+  More free, no-login, local-first tools at <a href="https://ladestack.in">ladestack.in</a>
+</p>
